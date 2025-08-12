@@ -20,6 +20,15 @@ O sistema conta com **área administrativa**, integração de pagamentos via **S
 
 ---
 
+## 📸 Screenshots
+<div align="center">
+  <img src="./img-git/Screenshot_1.png" alt="Tela inicial" width="45%"/>
+  <img src="./img-git/Screenshot_2.png" alt="Carrinho de compras" width="45%"/>
+  <img src="./img-git/Screenshot_3.png" alt="Área administrativa" width="45%"/>
+  <img src="./img-git/Screenshot_4.png" alt="Pagamento" width="45%"/>
+</div>
+---
+
 ## 🛠 Tecnologias Utilizadas!
 
 
